@@ -1,4 +1,4 @@
-Hi there, I’m Joyce Qu (or sushidog), a fourth-year Computer Science undergraduate at the University of Toronto *seeking PhD opportunities for Fall 2026.*
+Hi there, I’m Joyce Qu (or sushidog), a fourth-year Computer Science undergraduate at the University of Toronto, *seeking PhD opportunities for Fall 2026.*
 
 My interests span security, theory, computer systems, and architecture. I enjoy being challenged with hard problems and developing creative solutions. 
 Currently, I am working with Prof. Gururaj Saileshwar on attacks and defenses for Rowhammer, a DRAM read-disturbance vulnerability. 
